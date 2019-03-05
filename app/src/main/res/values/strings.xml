@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WeatherAppDesign</string>
+    <string name="tomorrowtemp">tomtemp</string>
+</resources>
